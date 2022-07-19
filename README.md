@@ -1,5 +1,5 @@
 <!-- inside body, where you want to create the card -->
-<div class="repo-card" data-repo="JW5123/repository"></div>
+<div class="repo-card" data-repo="JW5123/Arduino_learning"></div>
 
 <!-- NEW: for dark theme just set data-theme attribute -->
 <div class="repo-card" data-repo="JW5123/repository" data-theme="dark-theme"></div>
