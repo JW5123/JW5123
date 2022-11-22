@@ -5,23 +5,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JW5123&theme=nightowl&layout=compact)](https://github.com/JW5123/github-readme-stats)
 
 ***
-
-name: Waka Readme
- 
-on:
-  push:
-    branches:
-      - master
-  workflow_dispatch:
-  schedule:
-    # Runs at 12am UTC
-    - cron: '0 0 * * *'
- 
-jobs:
-  update-readme:
-    name: Update this repo's README 
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Yourname/waka-readme@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
