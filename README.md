@@ -6,4 +6,4 @@
 
 ***
 
-<h3 src="https://wakatime.com/share/@2952e753-07ae-46b9-b356-554902b777d8/90ff7729-0ba8-4c60-86d2-fcd8f219da2a.svg"></h3>
+<img src="https://wakatime.com/share/@2952e753-07ae-46b9-b356-554902b777d8/90ff7729-0ba8-4c60-86d2-fcd8f219da2a.svg">
