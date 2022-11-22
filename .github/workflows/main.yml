@@ -9,7 +9,7 @@ jobs:
     name: Automatically update my README  
     runs-on: ubuntu-latest
     steps:
-      - uses: tariksahni/coding-stats-wakatime@v1.0.0
+      - uses: JW5123/coding-stats-wakatime@v1.0.1
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_MONTHLY: false
