@@ -1,8 +1,8 @@
-name: Update README
+name: Update README with my latest coding stats
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '30 5 * * *'
 
 jobs:
   update-Readme:
@@ -12,4 +12,6 @@ jobs:
       - uses: JW5123/coding-stats-wakatime@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_MONTHLY: true
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_ACTION: ${{ github.action }}
