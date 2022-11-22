@@ -6,7 +6,4 @@
 
 ***
 
-<img
-  src="https://github.com/JW5123/JW5123/blob/<branch-name>/images/stat.svg"
-  alt="Alternative Text"
-/>
+<img src="https://github.com/JW5123/JW5123/blob/master/images/codeStats.svg" alt="Alternative Text"/>
