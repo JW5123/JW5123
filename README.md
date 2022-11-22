@@ -7,3 +7,6 @@
 ***
 
 <img src="https://github.com/JW5123/JW5123/blob/master/images/codeStats.svg" alt="Alternative Text"/>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
