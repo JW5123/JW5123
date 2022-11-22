@@ -4,6 +4,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JW5123&theme=nightowl&layout=compact)](https://github.com/JW5123/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JW5123&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JW5123&theme=nightowl)](https://github.com/JW5123/github-readme-stats)
 
 ***
