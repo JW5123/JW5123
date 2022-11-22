@@ -7,4 +7,5 @@
 ***
 
 
-<img src="https://wakatime.com/share/@2952e753-07ae-46b9-b356-554902b777d8/724f1d2c-a37b-444e-b275-561f5bf548c9.svg" width="1000cm" height="500cm">
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
