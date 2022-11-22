@@ -6,3 +6,6 @@
 
 ***
 
+
++ ![sumy7](https://komarev.com/ghpvc/?username=JW5123)
++ ![sumy7](https://visitor-badge.glitch.me/badge?page_id=JW5123.profile)
