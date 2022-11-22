@@ -2,7 +2,7 @@ name: Update README with my latest coding stats
 
 on:
   schedule:
-    - cron: '30 5 * * *'
+    - cron: '0 0 * * *'
 
 jobs:
   update-Readme:
