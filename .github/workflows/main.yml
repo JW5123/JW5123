@@ -14,6 +14,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GITHUB_TOKEN: ${{ github.token }}
+          SHOW_TITLE: true
           BRANCH: "main"
-          COMMIT_MSG: "Automated Coding Activity Update :alien:"
-          TIME_RANGE: last_30_days
+          TIME_RANGE: all_time
+          SHOW_TIME: true
