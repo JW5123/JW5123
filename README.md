@@ -8,4 +8,4 @@
 
 ***
 
-<img src="https://github.com/JW5123/JW5123/blob/main/images/stat.svg" alt="JW5123 WakaTime Activity" align="center">
+<img src="https://github.com/JW5123/JW5123/blob/main/images/stat.svg" alt="JW5123 WakaTime Activity" style="display:block; margin:auto;">
