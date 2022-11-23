@@ -16,4 +16,3 @@ jobs:
           GITHUB_TOKEN: ${{ github.token }}
           BRANCH: "main"
           TIME_RANGE: all_time
-          SHOW_OS: true
