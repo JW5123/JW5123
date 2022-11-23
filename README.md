@@ -17,3 +17,8 @@ C   1 min           ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 <!--END_SECTION:waka-->
 
 ***
+
+<img
+  src="https://github.com/JW5123/JW5123/blob/<branch-name>/images/stat.svg"
+  alt="JW5123 WakaTime Activity"
+/>
