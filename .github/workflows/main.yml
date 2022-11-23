@@ -16,4 +16,4 @@ jobs:
           GITHUB_TOKEN: ${{ github.token }}
           BRANCH: "main"
           COMMIT_MSG: "Automated Coding Activity Update :alien:"
-          TIME_RANGE: all_time
+          TIME_RANGE: last_30_days
