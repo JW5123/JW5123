@@ -1,8 +1,10 @@
 ***
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px; width: 100%; text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=JW5123&show_icons=true&theme=nightowl" style="display: inline-block;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JW5123&theme=nightowl&layout=compact&langs_count=8" width="350px" style="display: inline-block;">
+<div style="justify-content: center; align-items: center;">
+    <div style="display: flex; gap: 20px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=JW5123&show_icons=true&theme=nightowl">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JW5123&theme=nightowl&layout=compact&langs_count=8" width="350px">
+    </div>
 </div>
 
 ***
