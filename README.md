@@ -1,8 +1,8 @@
 ***
 
-<div align="center" style="display: flex; justify-content: center; gap: 50px;">
-    <img  height=200 src="https://github-readme-stats.vercel.app/api?username=JW5123&show_icons=true&theme=nightowl">
-    <img  height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JW5123&theme=nightowl&layout=compact&langs_count=8">
+<div align="center" style="display: flex; justify-content: center;  gap: 50px;">
+    <img align="left" height=200 src="https://github-readme-stats.vercel.app/api?username=JW5123&show_icons=true&theme=nightowl">
+    <img align="right" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=JW5123&theme=nightowl&layout=compact&langs_count=8" style="display: inline-block;">
 </div>
 
 ***
