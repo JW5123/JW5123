@@ -1,6 +1,6 @@
 ***
 
-<table border rules=none cellspacing=0 align=center>
+<table border-collapse:collapse; rules=none cellspacing=0 align=center>
     <tr>
         <td>
             <img style="width: auto; height: 200px; max-width: 49%;" src="https://github-readme-stats.vercel.app/api?username=JW5123&show_icons=true&theme=nightowl">
