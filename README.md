@@ -1,5 +1,5 @@
 ***
-<table align="center" cellspacing="20">
+<table align="center" style="border-collapse: collapse; border: none;">
     <tr>
         <td style="padding-right: 20px;">
             <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JW5123&show_icons=true&theme=nightowl">
