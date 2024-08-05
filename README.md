@@ -1,11 +1,11 @@
 ***
-<table border="0" align="center" cellspacing="20">
+<table align="center" cellspacing="20">
     <tr>
-        <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=JW5123&show_icons=true&theme=nightowl">
+        <td style="padding-right: 20px;">
+            <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JW5123&show_icons=true&theme=nightowl">
         </td>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JW5123&theme=nightowl&layout=compact&langs_count=8" width="350px">
+            <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JW5123&theme=nightowl&layout=compact&langs_count=8" width="350px">
         </td>
     </tr>
 </table>
