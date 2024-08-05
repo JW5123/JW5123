@@ -1,7 +1,7 @@
 ***
 
 <p align="center">
-    <span style="width: 100%;">
+    <span>
         <img align="center" style="width: 49%;" height=200 src="https://github-readme-stats.vercel.app/api?username=JW5123&show_icons=true&theme=nightowl">
         <img align="center" style="width: 49%;" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=JW5123&theme=nightowl&layout=compact&langs_count=8">
     </span>
