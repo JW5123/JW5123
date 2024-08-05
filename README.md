@@ -1,9 +1,9 @@
 ***
 
 <p align="center">
-    <span style="display: flex; justify-content: center; gap: 10px;">
-        <img style="width: 49%; height: auto; max-width: 500px;" src="https://github-readme-stats.vercel.app/api?username=JW5123&show_icons=true&theme=nightowl">
-        <img style="width: 49%; height: auto; max-width: 500px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JW5123&theme=nightowl&layout=compact&langs_count=8">
+    <span style="display: flex; justify-content: center; gap: 10px; align-items: center;">
+        <img style="width: 49%; height: 200px; object-fit: cover;" src="https://github-readme-stats.vercel.app/api?username=JW5123&show_icons=true&theme=nightowl">
+        <img style="width: 49%; height: 200px; object-fit: cover;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JW5123&theme=nightowl&layout=compact&langs_count=8">
     </span>
 </p>
 
