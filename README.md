@@ -1,11 +1,11 @@
 ***
 
 <table style="border:0px solid white; width:100%;">
-    <tr>
-        <td>
+    <tr style="border: 0px;">
+        <td style="border:0px;">
             <img style="width: auto; height: 200px; max-width: 49%;" src="https://github-readme-stats.vercel.app/api?username=JW5123&show_icons=true&theme=nightowl">
         </td>
-        <td>
+        <td style="border:0px;">
             <img style="width: auto; height: 200px; max-width: 49%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JW5123&theme=nightowl&layout=compact&langs_count=8">
         </td>
     </tr>
