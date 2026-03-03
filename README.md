@@ -1,8 +1,38 @@
+## Hi 👋, I'm Jay
+
+**I graduated from the Department of Computer Science and Information Engineering, and I am currently working toward a career in software engineering.**
+- I am currently focusing on application development related to front-end, back-end, and desktop programming.
+- Reach me at renjiewang0714@gmail.com
+
+***
+
 <p align="center">
-    <img style="width: auto;" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JW5123&theme=material_palenight">
     <img style="width: auto;" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JW5123&theme=material_palenight">
     <img style="width: auto;" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JW5123&theme=material_palenight">
 </p>
+NOTE: This does not indicate my skill level or language proficiency, it's merely a GitHub metric of which languages I have the most code of on GitHub.
+
+***
+
+## Technologies & Tools
+
+### Programming Languages
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java)](https://skillicons.dev)
+
+### Frontend
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,tailwind)](https://skillicons.dev)
+
+### Backend
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,flask,php)](https://skillicons.dev)
+
+### Database
+[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,mongodb&theme=light)](https://skillicons.dev)
+
+### Cross-Platform / Desktop
+[![My Skills](https://skillicons.dev/icons?i=qt,electron,flutter&theme=light)](https://skillicons.dev)
+
+### DevOps & Tools
+[![My Skills](https://skillicons.dev/icons?i=git,docker,gcp,netlify,linux,windows,apple&theme=light)](https://skillicons.dev)
 
 ***
 
