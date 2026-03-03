@@ -16,23 +16,7 @@ NOTE: This does not indicate my skill level or language proficiency, it's merely
 
 ## Technologies & Tools
 
-### Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java)](https://skillicons.dev)
-
-### Frontend
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,tailwind)](https://skillicons.dev)
-
-### Backend
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,flask,php)](https://skillicons.dev)
-
-### Database
-[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,mongodb&theme=light)](https://skillicons.dev)
-
-### Cross-Platform / Desktop
-[![My Skills](https://skillicons.dev/icons?i=qt,electron,flutter&theme=light)](https://skillicons.dev)
-
-### DevOps & Tools
-[![My Skills](https://skillicons.dev/icons?i=git,docker,gcp,netlify,linux,windows,apple&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,html,css,javascript,react,bootstrap,tailwind,nodejs,express,flask,php,mysql,sqlite,mongodb,qt,electron,flutter,git,docker,gcp,netlify,linux,windows,apple&theme=light&perline=9)](https://skillicons.dev)
 
 ***
 
