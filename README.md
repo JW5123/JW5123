@@ -1,6 +1,7 @@
 <p align="center">
-    <img style="width: auto; height: 200px; max-width: 49%;" src="https://github-readme-stats.vercel.app/api?username=JW5123&show_icons=true&theme=nightowl">
-    <img style="width: auto; height: 200px; max-width: 49%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JW5123&theme=nightowl&layout=compact&langs_count=8">
+    <img style="width: auto;" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JW5123&theme=material_palenight">
+    <img style="width: auto;" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JW5123&theme=material_palenight">
+    <img style="width: auto;" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JW5123&theme=material_palenight">
 </p>
 
 ***
