@@ -12,11 +12,11 @@
 </p>
 NOTE: This does not indicate my skill level or language proficiency, it's merely a GitHub metric of which languages I have the most code of on GitHub.
 
-***
-
 ## Technologies & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,html,css,javascript,react,bootstrap,tailwind,nodejs,express,flask,php,mysql,sqlite,mongodb,qt,electron,flutter,git,docker,gcp,netlify,linux,windows,apple&theme=light&perline=9)](https://skillicons.dev)
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,javascript,react,bootstrap,tailwind,nodejs,express,flask,php,mysql,sqlite,mongodb,qt,electron,flutter,git,docker,gcp,netlify,linux,windows,apple&theme=light">
+</p>
 
 ***
 
