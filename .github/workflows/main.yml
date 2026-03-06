@@ -3,7 +3,7 @@ name: WakaTime status update
 on:
   workflow_dispatch:
   schedule:
-    - cron: "*/30 */6 * * *"
+    - cron: "0 */6 * * *"
 
 jobs:
   update-readme:
@@ -15,4 +15,4 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GITHUB_TOKEN: ${{ github.token }}
           BRANCH: "main"
-          TIME_RANGE: all_time
+          STATS_RANGE: all_time
