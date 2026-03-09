@@ -10,6 +10,11 @@
     <img style="width: auto;" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JW5123&theme=material_palenight">
     <img style="width: auto;" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JW5123&theme=material_palenight">
 </p>
+
+<p align="center">
+    <img src="https://github.com/JW5123/JW5123/blob/main/images/stat.svg" alt="JW5123 WakaTime Activity">
+</p>
+
 NOTE: This does not indicate my skill level or language proficiency, it's merely a GitHub metric of which languages I have the most code of on GitHub.
 
 ## Technologies & Tools
@@ -29,6 +34,3 @@ NOTE: This does not indicate my skill level or language proficiency, it's merely
 #### DevOps & Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-***
-
-<img src="https://github.com/JW5123/JW5123/blob/main/images/stat.svg" alt="JW5123 WakaTime Activity">
