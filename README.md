@@ -15,8 +15,6 @@
     <img src="https://github.com/JW5123/JW5123/blob/main/images/stat.svg" alt="JW5123 WakaTime Activity">
 </p>
 
-NOTE: This does not indicate my skill level or language proficiency, it's merely a GitHub metric of which languages I have the most code of on GitHub.
-
 ## Technologies & Tools
 
 #### Programming Languages
